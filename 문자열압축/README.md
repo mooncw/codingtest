@@ -22,4 +22,6 @@ s	= "aabbaccc" 일 때
 </br>
 ![image](https://user-images.githubusercontent.com/97713997/184936619-b7e6c438-8051-4fa7-93f8-d033681682bd.png)
 </br>
+총 26.26 ms
+</br>
 ![image](https://user-images.githubusercontent.com/97713997/184936651-8f1a5daf-03ae-4394-9d54-930470746645.png)
